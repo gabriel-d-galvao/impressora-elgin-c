@@ -35,5 +35,5 @@ Projeto acadêmico desenvolvido em linguagem **C** para comunicação e envio de
 
 1. Clone este repositório ou baixe os arquivos em uma mesma pasta:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/impressora-elgin-c.git](https://github.com/SEU-USUARIO/impressora-elgin-c.git)
+   git clone https://github.com/gabriel-d-galvao/impressora-elgin-c.git
    cd impressora-elgin-c
