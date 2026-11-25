@@ -94,3 +94,9 @@ static int parametro = 0;
 /* Assinatura do QR Code de venda associada ao CANC_SAT.xml de exemplo. */
 static const char *ASS_QRCODE =
     "Q5DLkpdRijIRGY6YSSNsTWK1TztHL1vD0V1Jc4spo/CEUqICEb9SFy82ym8EhBRZjbh3btsZhF+sjHqEMR159i4agru9x6KsepK/"
+
+
+
+
+
+/*finalizado*/
