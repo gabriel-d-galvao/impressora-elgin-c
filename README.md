@@ -1,7 +1,7 @@
 # impressora-elgin-c
  Autores: 
-   Gabriel Diniz Galvão
-   Gustavo Brandassi
+   Gabriel Diniz Galvão,
+   Gustavo Brandassi,
    Arthur Cardoso
 
 Projeto em C para comunicação com impressoras térmicas Elgin via DLL
