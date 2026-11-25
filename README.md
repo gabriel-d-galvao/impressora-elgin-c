@@ -1,4 +1,9 @@
 # impressora-elgin-c
+ Autores: 
+   Gabriel Diniz Galvão
+   Gustavo Brandassi
+   Arthur Cardoso
+
 Projeto em C para comunicação com impressoras térmicas Elgin via DLL
 # Controle de Impressora Térmica Elgin (i8 / i9) em C
 
@@ -37,3 +42,5 @@ Projeto acadêmico desenvolvido em linguagem **C** para comunicação e envio de
    ```bash
    git clone https://github.com/gabriel-d-galvao/impressora-elgin-c.git
    cd impressora-elgin-c
+
+  
